@@ -1,0 +1,19 @@
+NCERT
+SUB=HISTORY
+CLASS=8
+PRINT VERSION=2021-22
+CHAPTER=2)FROM TRADE TO TERRITORY- THE COMPANY ESTABLISHES POWER
+====================================================================================
+
+SHORT SUMMERY
+=============
+East india company got a charter from queen elizabeth 1 which gave it a exclusive 
+right to trade with east. With these power it purchased cheap goods and sold them
+expensive in europe.
+
+However the royal charter is can not be appllied on other european powers. Other 
+european powers such as french,portuguese,dutch etc also had a presence in east.
+That led to competion,battle,blockade of ships between them. Companies made fortified
+trading posts and trade is guarded with weapons
+
+East india company in bengal-
