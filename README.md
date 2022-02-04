@@ -1,2 +1,2 @@
 # summeries
-Contains summaries
+Contains summaries of NCERT textbooks
