@@ -1,0 +1,74 @@
+NCERT
+SUB=GEOGRAPHY
+CLASS=9
+PRINT VERSION=2021-22
+CHAPTER=2)PHYSICAL FEATURES OF INDIA
+=================================================================================
+
+MAJOR PHYSIOGRAPHIC DIVISIONS
+------------------------------
+1) The himalayan mountains
+2) The northern plains
+3) The peninsular plateau
+4) The indian desert
+5) The coastal plains
+6) The islands
+------------------------------
+
+THE HIMALAYAN MOUNTAINS
+-----------------------
+> Geologically young , fold mountain range.
+> West-east direction , distance of about 2400km. Width 400km in kashmir 150 in
+arunanchal pradesh.
+
+Himalayan range division(longitudinal)-
+--------------------------------------
+1)Great/Inner Himalaya - Himadri
+2)Lesser Himalaya - Himachal
+3)Outer Himalaya - Shiwalik
+-----------------------------
+
+HIMADRI
+-------
+Altitude=6000 metres.
+Core=Granite
+
+HIMACHAL
+--------
+Altitude=3700-4500 metres
+width= 50
+Composition= Altered rocks
+________________________________________________________________________________
+|Notable ranges - Pir Panjal range, Dhaula dhar, Mahabharat. Notable places -   |
+|Kashmir Valley, Kangra & Kullu Valley.                                         |
+|_______________________________________________________________________________|
+
+SHIWALIK
+--------
+Altitude=900-1100 metres
+width=10-50 km
+composition=river sediments from upper ranges like, gravel and alluvium.
+________________________________________________________________________________
+| Valley between himalchal and shiwalik are known as Duns. Notable places- Dehra|
+| Dun, Kotli dun, Patli dun.                                                    |
+|_______________________________________________________________________________|
+
+Himalayan West-East division-
+----------------------------
+> Demarcated by river valleys.
+> Panjab Himalaya - Between Indus and Satluj
+> Kumaon Himalaya - Between Satluj and Kali
+> Nepal Himalaya - Between Kali and Teesta
+> Assam Himalaya - Between Teesta and Dihang
+
+Purvanchal/Eastern hills-
+-----------------------
+> Eastern-most boundary of Himalaya formed by Brahmaputra river.
+> Sharp bend of himalaya towards south beyond Dihang gorge and spread across east
+boundary of india, named as eastern hills.
+________________________________________________________________________________
+|Location- Spread across north-east states.                                     |
+|Composition- Sedimenatry rocks- strong sandstone.                              |
+|Notable hills- Patkai hills, Naga hills, Manipur hills, Mizo hills             |
+|_______________________________________________________________________________|
+
