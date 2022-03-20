@@ -1,9 +1,9 @@
 @media screen and (min-width:720px){
-	body{background-color:red;}
+	/*body{background-color:red;}*/
 	.portrait{display:none;}
 }
 @media screen and (max-width:360px){
-	body{background-color:blue;}
+	/*body{background-color:blue;}*/
 	.landscape{display:none;}
 }
 /*
@@ -14,3 +14,6 @@
 .msg{
 border:1px solid black;
 }
+
+.portrait{top:50%;
+position:absolute;}
