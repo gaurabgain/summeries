@@ -1,12 +1,16 @@
-@media screen and (min-width:200px){
-	/*body{background-color:red;}*/
+@media screen and (min-width:720px){
+	body{background-color:red;}
 	.portrait{display:none;}
 }
-@media screen and (max-width:200px){
-	/*body{background-color:blue;}*/
+@media screen and (max-width:360px){
+	body{background-color:blue;}
 	.landscape{display:none;}
 }
-
-.portrait{
+/*
+@media screen and (max-width:400px){
+	body{background-color:yellow;}
+}
+*/
+.msg{
 border:1px solid black;
 }
