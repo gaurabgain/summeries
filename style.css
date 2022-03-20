@@ -1,0 +1,12 @@
+@media screen and (min-width:720px){
+	/*body{background-color:red;}*/
+	.portrait{display:none;}
+}
+@media screen and (max-width:720px){
+	/*body{background-color:blue;}*/
+	.landscape{display:none;}
+}
+
+.portrait{
+border:1px solid black;
+}
