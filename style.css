@@ -1,8 +1,8 @@
-@media screen and (min-width:360px){
+@media screen and (min-width:359px){
 	/*body{background-color:red;}*/
 	.portrait{display:none;}
 }
-@media screen and (max-width:360px){
+@media screen and (max-width:359px){
 	/*body{background-color:blue;}*/
 	.landscape{display:none;}
 }
