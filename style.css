@@ -1,8 +1,23 @@
-@media screen and (min-width:720px){
+.bd{
+text-align:center;
+}
+
+.incomplete{
+color:red;
+}
+
+.msg{
+border:1px solid black;
+}
+
+.portrait{top:50%;
+position:absolute;}
+
+@media screen and (orientation:landscape){
 	/*body{background-color:red;}*/
 	.portrait{display:none;}
 }
-@media screen and (max-width:360px){
+@media screen and (orientation:portrait){
 	/*body{background-color:blue;}*/
 	.landscape{display:none;}
 }
@@ -11,9 +26,3 @@
 	body{background-color:yellow;}
 }
 */
-.msg{
-border:1px solid black;
-}
-
-.portrait{top:50%;
-position:absolute;}
