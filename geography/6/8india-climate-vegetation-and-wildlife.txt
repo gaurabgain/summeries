@@ -1,0 +1,58 @@
+NCERT
+SUB=GEOGRAPHY
+CLASS=6
+PRINT VERSION=2020-21
+CHAPTER=8)INDIA:CLIMATE,VEGETATION AND WILDLIFE
+=================================================================================
+
+CLIMATE
+=======
+
+Weather- Day to day changes in the atmosphere, ex. hot,cold,sunny,cloudy etc.
+Climate- Average weather condition of a area in a large span of time(years).
+
+Major seasons in india-
+-----------------------
+1)Cold weather season (winter)- december to february
+2)Hot weather season (summer)- march to may
+3)Southwest monsoon season (rainy)- june to september
+4)Retreating monsoon season (autumn)- october to november
+
+
+
+Winter- (Cold weather season)
+-----------------------------
+>Sun rays do not fall directly in the region.
+>Low temperature in northern india.
+
+Summer- (Hot weather season)
+----------------------------
+>Sun rays fall directly in the region.
+>Very high temperature.
+>Flow of dry wind called "loo".
+
+Rainy- (southwest monsoon season)
+---------------------------------
+> Flow of wind from arabian sea and bay of bengal towards land carrying moisture.
+> Moist winds strike moutain barrier, causing rain.
+
+Autumn- (Retreating monsoon season)
+-----------------------------------
+> Flow of wind from mainland to bay of bengal.
+> Rainfall in southern india, particularly tamil nadu and andhra pradesh.
+> Moderate temperature.
+
+ _______________________________________________________________________________
+| > The climate of india is monsoon type.                                       |
+| > Most of rain in india is brought by monsoon wind.                           |
+| > Monsoon taken from the arabic word "mausim", meaning seasons.               |
+|_______________________________________________________________________________|
+
+Regional differences of climate in india-
+-----------------------------------------
+> A climate of a place is affected by its location,altitude,distance from the sea
+  etc.
+> Regional differeces include - hot desert in places like jaisalmer & bikaner,
+  cold desert in drass & kargil in j&k, humidity in coasts like mumbai & kolkata,
+  high rainfall in northeast like mawsynram in meghalaya which receives world's
+  highest rain fall.
