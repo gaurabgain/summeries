@@ -33,3 +33,46 @@ ________________________________________________________________________________
 |_______________________________________________________________________________|
 
 
+CLIMATIC CONTROLS
+=================
+
+There are six major climate controls of any place.
+1) Latitude
+2) Altitude
+3) Pressure and wind system
+4) Distance from sea(continentality)
+5) Ocean currents
+6) Relief features
+
+==> Latitude-
+>Due to curvature of earth, it receives more and direct sunlight.
+>Temperature gradually decreases from equator towards pole.
+
+==> Altitude-
+> With increasing altitude, atomosphere becomes less dense and temperature
+  decreases.
+> The hills situated in higher altitude are therefore cooler than surfaces at
+  low altitude.
+
+==> Pressure and Wind system-
+> Pressure and wind system of any area depend upon latitude and longitude of a
+  place.
+> It influence temperatue and rainfall pattern of the place.
+
+==> Distance from sea (continentality)-
+> At coast the temperature is controlled compared to inland due to phenomenon of
+  land breeze/sea breeze.
+> As the distance from sea increases, its moderating influence decreases and 
+  people experience extreme weather(very hot in summer, very cold in winter).
+  This condition is known as continentality.
+
+==> Ocean currents-
+> Climate of coastal area is affected by ocean currents with onshore winds.
+> If winds are onshore, hot or cold current will make the area hot or cold.
+
+==> Relief features-
+> High mountains act as barriers for hot or cold wind.
+> If mountains are high enough they may block rain-bearing wind which can cause
+  precipitation in any area.
+> The other side of mountain (leeward side) remain relatively dry.
+
