@@ -1,0 +1,35 @@
+NCERT
+SUB=GEOGRAPHY
+CLASS=9
+PRINT VERSION=2021-22
+CHAPTER=4)CLIMATE
+=================================================================================
+
+Climate- It refers to the sum total of weather conditions and variations over a
+large area for a long period of time (more than 30 years).
+
+Weather- It refers to the state of atmosphere over an area at any point of time.
+
+
+Elements of climate-
+-------------------
+1)Temperature
+2)Atmospheric pressure
+3)Wind
+4)Humidity
+5)Precipitation
+
+
+> The world is divided into number of climatic regions.
+> The climate of india is "monsoon" type.
+> Despite having monsoon type climate, india has significant regional variations
+  in climatic conditions within the country.
+> Regional variation consists of high temperature in desert area of rajasthan, 
+  vary low temperatue in himalayas in J&K, very high precipitation in north-east
+  regions of india etc.
+________________________________________________________________________________
+|> The word monsoon is derived from the arabic word "mausim" which means season.|
+|> Monsoon refers to the seasonal reversal in the wind direction during a year. |
+|_______________________________________________________________________________|
+
+
