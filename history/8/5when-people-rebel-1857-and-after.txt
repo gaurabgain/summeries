@@ -1,0 +1,21 @@
+NCERT
+SUB=HISTORY
+CLASS=8
+PRINT VERSION=2021-22
+CHAPTER=5)WHEN PEOPLE REBEL- 1857 AND AFTER
+=================================================================================
+
+POLICIES AND THE PEOPLE
+=======================
+
+THROUGH THE EYES OF THE PEOPLE
+==============================
+
+A MUTINY BECOMES A POPULAT REBELLION
+====================================
+
+THE COMPANY FIGHTS BACK
+=======================
+
+AFTERMATH
+=========
