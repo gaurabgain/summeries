@@ -1,0 +1,20 @@
+NCERT
+SUB=HISTORY
+CLASS=8
+PRINT VERSION=2021-22
+CHAPTER= THE MAKING OF THE NATIONAL MOVEMENT: 1870s-1947
+=================================================================================
+
+THE EMERGENCE OF NATIONALISM
+============================
+
+THE GROWTH OF MASS NATIONALISM
+==============================
+
+THE MARCH TO DANDI
+==================
+
+QUIT INDIA AND LATER
+====================
+
+>>>>>>>>>>>>>>THE END<<<<<<<<<<<<<<<<<<<<
