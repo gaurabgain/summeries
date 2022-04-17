@@ -1,0 +1,64 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family: 'Inter','Akshar', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2-family=Akshar:wght@400;600&display=swap');
+
+header{
+	text-align:center;
+	font-family:sans-serif;
+	background-color:#a10705;
+	color:white;
+}
+
+.ul-content{
+	padding-left:1em;
+	line-height:1.5;
+}
+nav{
+	text-align:center;
+}
+
+h2{
+	font-family:'Akshar', sans-serif;
+	font-weight:600;
+	color:#002e99;
+	background-color:#89ffdd;
+}
+
+.self{
+	color:#c6262e;
+}
+	
+h3{
+	color:#68b723;
+}
+
+em{
+	color:#a56de2;
+}
+
+strong{
+	color:#910e38;
+}
+
+/* button */
+a{
+	text-decoration:none;
+	font-weight:400;
+	font-size:20px;
+}
+.btn{
+	background-color:red;
+	margin:15px;
+	padding:10px;
+	height:40px;
+	width:100px;
+}
+
+.btn:hover{
+	background-color:orange;
+}
