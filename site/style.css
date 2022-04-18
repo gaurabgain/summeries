@@ -57,6 +57,10 @@ a{
 	padding:10px;
 	height:40px;
 	width:100px;
+	border-radius:10px;
+}
+.btn-text{
+	color:white;
 }
 
 .btn:hover{
