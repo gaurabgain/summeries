@@ -7,6 +7,7 @@
 
 @import url('https://fonts.googleapis.com/css2-family=Akshar:wght@400;600&display=swap');
 
+/* ELEMENT SELECTORS */
 header, footer{
 	text-align:center;
 	font-family:sans-serif;
@@ -14,11 +15,6 @@ header, footer{
 	color:white;
 }
 
-.ul-content{
-	padding-left:1em;
-	line-height:1.5;
-	padding-bottom:0.5em;
-}
 nav{
 	text-align:center;
 }
@@ -30,10 +26,6 @@ h2{
 	background-color:#89ffdd;
 }
 
-.self{
-	color:#c6262e;
-}
-	
 h3{
 	color:#68b723;
 	padding-top:0.5em;
@@ -47,12 +39,30 @@ strong{
 	color:#910e38;
 }
 
-/* button */
 a{
 	text-decoration:none;
 	font-weight:400;
 	font-size:20px;
 }
+
+p{
+	padding-top:0.5em;
+	padding-bottom:0.5em;
+}
+
+/* CLASS SELECTORS */
+.ul-content{
+	padding-left:1em;
+	line-height:1.5;
+	padding-bottom:0.5em;
+}
+
+
+.self{
+	color:#c6262e;
+}
+
+/* button */
 .btn{
 	background-color:red;
 	margin:15px;
