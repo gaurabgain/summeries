@@ -18,6 +18,10 @@ h2{
 	font-family:sans-serif;
 }
 
+a{
+	text-decoration:none;
+}
+
 .incomplete{
 	color:red;
 }
