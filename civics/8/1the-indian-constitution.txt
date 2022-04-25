@@ -1,0 +1,62 @@
+NCERT
+SUB=CIVICS
+CLASS=8
+PRINT VERSION=2021-22
+CHAPTER=1)THE INDIAN CONSTITUTION
+=================================================================================
+Requirement of a constituion-
+-----------------------------
+While it is not a must that a country have to have a constitution, most countries
+does have a constituion.
+The constitution have rules for the country. It represents the country, its
+societies ,its political systems, its peoples etc. The rules of the constitution
+helps in better governing for the country.
+
+Role of a constituion in a democracy-
+-------------------------------------
+> It guards us against misuse of authority by political leaders.
+> It prevents domination of majority on minority.
+> It protects us from taking decisions that might generate adverse effect on us.
+
+THE INDIAN CONSTITUTION : KEY FEATURES
+======================================
+
+1) FEDERALISM-
+--------------
+> It refers to existence of more than one level of government in a country.
+> India have three level of government- Central government, State government,
+  Panchayati raj.
+
+2) PARLIAMENTARY FORM OF GOVERNMENT-
+------------------------------------
+> Constitution of india guerantees right to vote to all adult citizens. Thus
+  citizens of india have direct role in electing representatives.
+> Those representatives represent on behalf of people in parliament.
+
+3) SEPARATION OF POWERS-
+------------------------
+> According to indian constitution, there are three organs of government, they
+  are, the legislature, the executive, the judiciary.
+> Each of these organs have different powers and they check each other to ensure
+  balance of power between all three.
+
+4) FUNDAMENTAL RIGHTS-
+---------------------
+> Constitution of india provides fundamental rights to its citizens against
+  arbitrary exercise of power by state. Thus it guarantees the rights of
+  individuals against the state and also against other individuals.
+> The fundamental rights in the indian constitution include-
+  1) Right to Equality
+  2) Right to Freedom
+  3) Right against Exploitation
+  4) Right to Freedom of Religion
+  5) Cultural and Educational rights
+  6) Right to Constitutional Remedies
+
+5) SECULARISM-
+--------------
+> It defines india as a secular state.
+> A secular state is one in which the state doesnot officially promote any one
+  religion as the state religion.
+
+>>>>>>>>>>>>>>>>>>>THE END<<<<<<<<<<<<<<<<<<<<<
