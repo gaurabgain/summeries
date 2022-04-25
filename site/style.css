@@ -5,6 +5,7 @@
 	font-family: 'Inter','Akshar', sans-serif;
 }
 
+/* CSS FONT URLS */
 @import url('https://fonts.googleapis.com/css2-family=Akshar:wght@400;600&display=swap');
 
 /* ELEMENT SELECTORS */
@@ -46,9 +47,10 @@ a{
 }
 
 p{
-	padding-top:0.5em;
-	padding-bottom:0.5em;
+	padding:0.5em 1em;
+	line-height:1.5;
 }
+
 
 /* CLASS SELECTORS */
 .ul-content{
@@ -61,6 +63,10 @@ p{
 .self{
 	color:#c6262e;
 }
+
+/*.no-heading{
+	padding:1em 1em 2em 1em;
+}*/
 
 /* button */
 .btn{
