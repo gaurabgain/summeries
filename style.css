@@ -44,6 +44,10 @@ a{
 	margin:0;
 
 }
+
+.displaynone{
+	display:none;
+}
 @media screen and (orientation:landscape){
 	/*body{background-color:red;}*/
 	/*.portrait{display:none;}*/

@@ -65,6 +65,10 @@ p{
 	color:#c6262e;
 }
 
+.displaynone{
+	display:none;
+}
+
 /*.no-heading{
 	padding:1em 1em 2em 1em;
 }*/
