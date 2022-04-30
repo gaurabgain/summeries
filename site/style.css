@@ -69,18 +69,37 @@ p{
 	display:none;
 }
 
+.inline-underline{
+	text-decoration:underline;
+	text-decoration-style:double;
+	text-decoration-color:red;
+}
+
+.inline-headings{
+	color:#8e44ad;
+	font-weight:bold;
+}
+
+.top-of-page-anchor{
+	display:inline-block;
+	color:green;
+	text-align:right;	
+}
 /*.no-heading{
 	padding:1em 1em 2em 1em;
 }*/
 
 /* button */
 .btn{
-	background-color:red;
+	display:inline-block;
+	background-color:#0e9a83;
 	padding:10px;
 	margin:5px;
-	height:40px;
-	width:100px;
+	height:auto;
+	width:100%;
 	border-radius:10px;
+	border:3px solid green;
+	color:white;
 }
 .btn-text{
 	color:white;
@@ -89,3 +108,14 @@ p{
 .btn:hover{
 	background-color:orange;
 }
+
+.btn:click{
+	background-color:yellow;
+}
+
+/*.index-btn{
+	background-color:green;
+	margin:10px;
+	height:40px;
+	display:inline-block;
+}*/
