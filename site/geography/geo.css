@@ -1,0 +1,70 @@
+*{
+	box-sizing:border-box;
+}
+
+/*font*/
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&family=Teko:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+/*-------------*/
+
+/* element selectors */
+body{
+	margin:0;
+}
+h1{
+	font-family:'Teko','Stint Ultra Condensed',sans-serif;
+	font-weight:400;
+	font-size:42px;
+	text-align:center;
+	background-color:#8e44ad;
+	color:white;
+	margin:0;
+}
+
+h2{
+	color:#206b00;
+	background-color:#89ffdd;
+	text-decoration:underline solid #1abc9c;
+	font-family:'Stint Ultra Condensed',sans-serif;
+	/*text-decoration-color:#1abc9c;*/
+}
+
+h3{
+	color:#002e99;
+	background-color:#8cd5ff;
+	font-family:'Teko',sans-serif;
+}
+
+table{
+	padding:0 1.53em;
+}
+
+tr:nth-child(odd){
+	background-color:#ffc27d;
+}
+
+tr:nth-child(even){
+	background-color:#89ffdd;
+}
+
+span{
+	color:#a10705;
+	font-weight:bold;
+}
+
+/* class selectors */
+.content{
+	padding:0 1.5em;
+}
+
+.box{
+	background-color:pink;
+	border-left:20px solid red;
+	margin:10px;
+}
+
+.ul-content{
+	font-family: 'Noto Serif', serif;
+	font-size:16px;
+}
