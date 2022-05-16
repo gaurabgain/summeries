@@ -113,9 +113,28 @@ p{
 	background-color:yellow;
 }
 
+.box{
+	background-color:pink;
+	border-left:20px solid red;
+	margin:10px;
+}
+
 /*.index-btn{
 	background-color:green;
 	margin:10px;
 	height:40px;
 	display:inline-block;
 }*/
+
+/*media landscape*/
+@media screen and (orientation:landscape){
+	.btn{
+		width:50%;
+	}
+}
+
+@media screen and (orientation:portrait){
+	.btn{
+		width:90%;
+	}
+}

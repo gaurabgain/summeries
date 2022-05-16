@@ -64,10 +64,16 @@ a{
 @media screen and (orientation:landscape){
 	/*body{background-color:red;}*/
 	/*.portrait{display:none;}*/
+	.btn{
+		width:50%;
+	}
 }
 @media screen and (orientation:portrait){
 	/*body{background-color:blue;}*/
 	/*.landscape{display:none;}*/
+	.btn{
+		width:90%;
+	}
 }
 /*
 @media screen and (max-width:400px){
