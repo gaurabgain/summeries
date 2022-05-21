@@ -1,9 +1,11 @@
-*{
+/**{
 	margin:0;
 	padding:0;
 	box-sizing:border-box;
-	font-family: 'Inter', sans-serif;
-}
+}*/
+
+/* font links */
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400;500;600&display=swap');
 .bd{
 	text-align:center;
 	margin:0;
@@ -15,7 +17,9 @@ h2,h5,hr{
 
 h2{
 	color:white;
-	font-family:sans-serif;
+	font-family:'Teko', sans-serif;
+	font-size:48px;
+	font-weight:500;
 }
 
 a{
