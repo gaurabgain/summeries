@@ -1,14 +1,18 @@
-*{
+/**{
 	margin:0;
 	padding:0;
 	box-sizing:border-box;
 	font-family: 'Inter','Akshar', sans-serif;
-}
+}*/
 
 /* CSS FONT URLS */
 @import url('https://fonts.googleapis.com/css2-family=Akshar:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400;500;600&display=swap');
 
 /* ELEMENT SELECTORS */
+body{
+	margin:0;
+}
 header, footer{
 	text-align:center;
 	font-family:sans-serif;
@@ -19,6 +23,14 @@ header, footer{
 nav{
 	text-align:center;
 	padding:10px;
+}
+
+h1{
+	margin:0;
+	color:white;
+	font-family:'Teko', sans-serif;
+	font-size:48px;
+	font-weight:500;
 }
 
 h2{
@@ -54,6 +66,10 @@ p{
 
 
 /* CLASS SELECTORS */
+.content{
+	padding:0 2em;
+}
+
 .ul-content, .ol-content{
 	padding-left:1.5em;
 	line-height:1.5;
