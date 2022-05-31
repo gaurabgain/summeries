@@ -7,6 +7,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&family=Teko:wght@300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 /*-------------*/
 
 /* element selectors */
@@ -38,7 +39,11 @@ h3{
 }
 
 table{
-	padding:0 1.53em;
+	padding:0 30px;
+}
+tbody{
+	padding-left:0;
+	padding-right:30px;	
 }
 
 tr:nth-child(odd){
@@ -57,22 +62,26 @@ tr:nth-child(even){
 
 th{
 	background-color:black;
-	padding:10px;
+	padding:10px 30px;
 }
 
-td{
+/*td{
 	padding:0 30px;
-}
+}*/
 
 span{
 	color:#a10705;
 	font-weight:bold;
+	font-family: 'Roboto', sans-serif;
+	font-size:18px;
+	line-height:1.5;
 }
 
-tr:nth-child(odd) span {
-	color:#00ffff;
+p{
+	font-family: 'Roboto', sans-serif;
+	font-size:18px;
+	line-height:1.5;
 }
-
 
 /* class selectors */
 .content{
@@ -87,6 +96,7 @@ tr:nth-child(odd) span {
 	background-color:pink;
 	border-left:20px solid red;
 	margin:10px;
+	padding:0.5em 2em;
 }
 
 .pbox{
@@ -97,7 +107,71 @@ tr:nth-child(odd) span {
 }
 
 .ul-content{
-	font-family: 'Noto Serif', serif;
-	font-size:16px;
+	font-family: 'Roboto', sans-serif;
+	font-size:18px;
+	line-height:1.5;
 }
 
+.num{
+	background-color:pink;
+	color:#000000;
+	font-weight:bold;
+}
+
+.box-heading{
+	font-family:'Oswald',sans-serif;
+	font-weight:400;
+	font-size:18px;
+	color:#a10705;
+	font-weight:bold;
+}
+
+.pbold{
+	color:#000000;
+	font-weight:bold;
+}
+
+.libold{
+	color:#000000;
+	font-weight:bold;
+}
+
+.section{
+	border:5px dashed #000066;
+	padding:.5em;
+	background-color:#ccccff;
+}
+
+.section2{
+	padding:.5em;
+	background-color:#ccccff;
+}
+
+.section2 h3{
+	text-align:center;
+	color:#ff3300;
+	background-color:#ffb3d1;
+	border:3px solid #e6005c;
+	border-radius:20px;
+}
+
+/*
+.specialnum{
+	display:inline;
+	height:inherit;
+}
+
+.specialh3{
+	display:inline;
+}
+*/
+
+.h3-table{
+	padding:0;
+	margin:0;
+}
+
+.h3-tr h3{
+	margin:0;
+	background-color:none;
+}
